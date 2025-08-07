@@ -12,7 +12,7 @@ I am a full-stack web developer who creates modern web applications using React,
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🚀 Featured Projects
+<!-- ### 🚀 Featured Projects
 
 - **[Project Name 1]** - A short description of what the project is about.
 - **[Project Name 2]** - Describe the technologies used.
@@ -23,4 +23,4 @@ I am a full-stack web developer who creates modern web applications using React,
 - **[My personal website](https://exocriador.art)**
 - **[LinkedIn](https://linkedin.com/in/exocriador)**
 - **[Telegram](https://t.me/exocriador)**
-- **[Email](mailto:your_email@example.com)**
+- **[Email](mailto:your_email@example.com)** -->
