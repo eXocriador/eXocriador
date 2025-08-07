@@ -14,6 +14,7 @@ Now I build modern web apps using React, Node.js, and other cool tools.
 ![React](https://img.shields.io/badge/-React-20232a?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
 
-📫 Reach me at:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/yourusername)
-[![Telegram](https://img.shields.io/badge/-@yourhandle-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/yourhandle)
+### 📫 Reach me at:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/exocriador)
+[![Telegram](https://img.shields.io/badge/-@yourhandle-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/exocriador)
